@@ -1,0 +1,11 @@
+node_modules
+
+.tmp/
+
+wdio.conf.js
+
+README.md
+
+
+test/specs/__snapshots__/
+
